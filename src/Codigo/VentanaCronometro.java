@@ -11,7 +11,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author EQUINOX
+ * @author EQUINOX55
  */
 public class VentanaCronometro extends javax.swing.JFrame {
 
